@@ -32,13 +32,13 @@
                 <div class="col-md-3">
                     <div class="widget widget-categories">
                         <h4 class="widget-title">{!! trans('themes::theme.footer.titles.link 1') !!}</h4>
-                        {!! Menu::render('rental1', \Themes\Kentacar\Presenter\FooterMenuLinksPresenter::class) !!}
+                        {!! Menu::render('rental1', \Themes\Ceylinrental\Presenter\FooterMenuLinksPresenter::class) !!}
                     </div>
                 </div>
                 <div class="col-md-3">
                     <div class="widget widget-categories">
                         <h4 class="widget-title">{!! trans('themes::theme.footer.titles.link 2') !!}</h4>
-                        {!! Menu::render('rental2', \Themes\Kentacar\Presenter\FooterMenuLinksPresenter::class) !!}
+                        {!! Menu::render('rental2', \Themes\Ceylinrental\Presenter\FooterMenuLinksPresenter::class) !!}
                     </div>
                 </div>
                 <div class="col-md-3">

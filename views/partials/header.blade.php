@@ -18,7 +18,7 @@
                     <div class="swiper-slide">
                         <!-- navigation menu -->
                         <a href="#" class="menu-toggle-close btn"><i class="fa fa-times"></i></a>
-                        {!! Menu::render('header', \Themes\Kentacar\Presenter\HeaderMenuPresenter::class) !!}
+                        {!! Menu::render('header', \Themes\Ceylinrental\Presenter\HeaderMenuPresenter::class) !!}
                         <!-- /navigation menu -->
                     </div>
                 </div>

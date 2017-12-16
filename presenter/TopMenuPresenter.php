@@ -1,4 +1,4 @@
-<?php namespace Themes\Kentacar\Presenter;
+<?php namespace Themes\Ceylinrental\Presenter;
 
 use Nwidart\Menus\Presenters\Presenter;
 

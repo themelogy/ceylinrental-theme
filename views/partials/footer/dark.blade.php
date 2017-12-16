@@ -21,13 +21,13 @@
                         <div class="col-md-3">
                             <div class="widget widget-links">
                                 <h4>KURUMSAL</h4>
-                                {!! Menu::render('corporate', \Themes\Kentacar\Presenter\FooterMenuLinksPresenter::class) !!}
+                                {!! Menu::render('corporate', \Themes\Ceylinrental\Presenter\FooterMenuLinksPresenter::class) !!}
                             </div>
                         </div>
                         <div class="col-md-3">
                             <div class="widget widget-links">
                                 <h4>HİZMETLERİMİZ</h4>
-                                {!! Menu::render('services', \Themes\Kentacar\Presenter\FooterMenuLinksPresenter::class) !!}
+                                {!! Menu::render('services', \Themes\Ceylinrental\Presenter\FooterMenuLinksPresenter::class) !!}
                             </div>
                         </div>
                         <div class="col-md-3">
